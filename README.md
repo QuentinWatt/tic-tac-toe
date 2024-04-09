@@ -1,2 +1,3 @@
 # tic-tac-toe
-A raw JS Tic Tac Toe
+
+A Vanilla JS Tic Tac Toe
